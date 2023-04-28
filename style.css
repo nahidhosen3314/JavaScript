@@ -1,0 +1,43 @@
+
+body{
+    margin: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.welcome-sec {
+    background: rgb(125, 212, 222);
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.times h2 {
+    color: #ac3434;
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 33px;
+    text-decoration: underline;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.text{
+    color:rgb(255, 0, 0);
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+

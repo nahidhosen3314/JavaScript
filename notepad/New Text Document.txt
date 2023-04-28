@@ -1,0 +1,36 @@
+--------------While loop-------------
+const fruits = ["Banana", "Apple", "Jackfruit", "Pinapple", "Orange"]
+
+i=0;
+while( i<fruits.length ){
+    console.log(fruits[i]);
+    i++;
+}
+
+
+
+----------for loop-----------
+const fruits = ["Banana", "Apple", "Jackfruit", "Pinapple", "Orange"]
+
+for( i=0; i<fruits.length; i++ ){
+    console.log(fruits[i]);
+}
+App verson {
+cupcake
+donut
+eclair
+froyo
+gingerbread
+honeycomb
+ice cream sandwich
+jelly bean
+kitkat
+lollipop
+Marshmallow
+Nougat
+Oreo
+Pie
+10
+11
+12
+13}
